@@ -50,25 +50,25 @@
 &nbsp;
 <hr/>
 <div align="center">
-  <a href="https://www.facebook.com/buiductuan.dev" target="_blank">
+  <a href="https://www.facebook.com/buiductuan.facebook" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" alt="buiductuan-facebook" height="40"/>
   </a>
-  <a href="https://www.youtube.com/@TimOdooDeveloper" target="_blank">
+  <a href="https://www.youtube.com/@buiductuan.youtube" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="buiductuan-youtube"  height="40"/>
   </a>
-  <a href="www.linkedin.com/in/buiductuan-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/buiductuan/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="buiductuan-linkedin"  height="40"/>
   </a>
-  <a href="mailto:buiductuan.dev@gmail.com" target="_blank">
+  <a href="mailto:buiductuan12081995@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000" alt="buiductuan-email"  height="40"/>
   </a>
- <a href="https://www.tiktok.com/@buiductuan_dev" target="_blank">
+ <a href="https://www.tiktok.com/@buiductuan.tiktok" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=gHI-Q095DJQb&format=png&color=000000" alt="buiductuan-tiktok"  height="40"/>
   </a>
-   <a href="https://github.com/buiductuan-dev" target="_blank">
+   <a href="https://github.com/buiductuan-git/buiductuan-git" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=2HMbDtuAvJ3e&format=png&color=FFFFFF" alt="buiductuan-github"  height="40"/>
   </a>
-  <a href="https://gitlab.com/buiductuan.dev" target="_blank">
+  <a href="https://gitlab.com/buiductuan.gitlab" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=xNOPrIk9lLyq&format=png&color=000000" alt="buiductuan-gitlab"  height="40"/>
   </a>
 </div>

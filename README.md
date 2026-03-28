@@ -14,8 +14,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=#4169E1" alt="PostgreSQL logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=c Sharp&logoColor=#239120" alt="JavaScript logo" title="C Sharp" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
@@ -53,17 +51,8 @@
   <a href="https://www.facebook.com/buiductuan.facebook" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" alt="buiductuan-facebook" height="40"/>
   </a>
-  <a href="https://www.youtube.com/@buiductuan.youtube" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="buiductuan-youtube"  height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/buiductuan/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="buiductuan-linkedin"  height="40"/>
-  </a>
   <a href="mailto:buiductuan12081995@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000" alt="buiductuan-email"  height="40"/>
-  </a>
- <a href="https://www.tiktok.com/@buiductuan.tiktok" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=gHI-Q095DJQb&format=png&color=000000" alt="buiductuan-tiktok"  height="40"/>
   </a>
    <a href="https://github.com/buiductuan-git/buiductuan-git" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=2HMbDtuAvJ3e&format=png&color=FFFFFF" alt="buiductuan-github"  height="40"/>
